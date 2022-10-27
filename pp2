@@ -1,0 +1,210 @@
+body {
+background: #D86C48 !important;
+color: #E4F5E0 !important;
+font-family:’Lucida Sans Unicode’;
+}
+
+div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+content: url('i.ibb.co/bRGh1Pc/logo-full-2.p…);
+}
+
+
+/* width */
+::-webkit-scrollbar {
+   width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+   background: #E4F5E0;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+   background: #26547C;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+   background: #204769;
+
+}
+.col-md-9.col-xs-12 {
+background: #D86C48 !important;
+border: 4px double #1A3D5B !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom :none !important;
+}
+
+div.container.main {
+background: #D86C48 !important;
+border: 4px double #1A3D5B !important;
+border-left: none !important;
+}
+.navbar {
+background: #F1BA62 !important;
+border: 1px solid #1A3D5B !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: ’Lucida Sans Unicode’ ;
+}
+
+.navbar li a {
+color: #204769 !important;
+}
+
+.navbar li a:hover {
+background: #DCA959 !important;
+}
+
+.breadcrumb {
+background: #FDC468 !important;
+color: #E4F5E0 !important;
+border: 1px solid #1A3D5B !important;
+}
+
+.feature {
+background: #6290C3 !important;
+color: #E4F5E0 !important;
+border: 1px solid #1A3D5B !important;
+}
+
+.topbar {
+background: #350306 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+border-top: none !important;
+border-bottom: 4px solid #000000 !important;
+}
+
+.sidebar {
+background: #D64550 !important;
+color: #FFFFFF !important;
+border: none !important;
+}
+
+.panel {
+background: none !important;
+border: none !important;
+box-shadow: none !important;
+}
+
+.chat_light {
+background: none !important;
+color: #FFFFFF !important;
+border: none !important;
+text-align: center !important;
+}
+
+.chat_dark {
+background: none !important;
+color: #FFFFFF !important;
+border: none !important;
+text-align: center !important;
+}
+
+h1 {
+text-align: center !important;
+color: #FFFFFF !important;
+font-family: 'Lucida Sans Unicode' !important;
+}
+
+h3 {
+text-align: center !important;
+color: #FFFFFF !important;
+font-family: 'Lucida Sans Unicode' !important;
+}
+
+.top {
+background: #350306 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode' !important;
+}
+
+th {
+background: #350306 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode' !important;
+}
+
+.bottom {
+background: #350306 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode' !important;
+}
+
+.left {
+background: #350306 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode' !important;
+}
+
+td {
+background: #EF9E92 !important;
+color: #FFFFFF !important;
+border: none !important;
+}
+
+.right_cub {
+background: #350306 !important;
+}
+
+.cave-grid {
+background: #350306 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode' !important;
+}
+
+.beetle-grid {
+background: #350306 !important;
+color: #FFFFFF !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode' !important;
+}
+
+a:link {
+color: #FFFFFF !important;
+}
+
+a:visited {
+color: #FFFFFF !important;
+}
+
+a:hover {
+color: #210104 !important;
+}
+
+.alert-danger {
+background: #A31621 !important;
+color: #0C0608 !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+}
+
+.alert-success {
+background: #A31621 !important;
+color: #0C0608 !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+}
+
+.attack-won {
+background: #A31621 !important;
+color: #0C0608 !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+}
